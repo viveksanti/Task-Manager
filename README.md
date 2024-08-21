@@ -7,7 +7,7 @@ A web-based task management application.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/projectname.git
+    git clone https://github.com/viveksanti/Task-Manager.git
     ```
 2. Navigate to the project directory:
     ```bash
